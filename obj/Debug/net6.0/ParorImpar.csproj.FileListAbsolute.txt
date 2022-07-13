@@ -1,0 +1,15 @@
+/home/lipin-dev/projetos-C#/ParorImpar/bin/Debug/net6.0/ParorImpar
+/home/lipin-dev/projetos-C#/ParorImpar/bin/Debug/net6.0/ParorImpar.deps.json
+/home/lipin-dev/projetos-C#/ParorImpar/bin/Debug/net6.0/ParorImpar.runtimeconfig.json
+/home/lipin-dev/projetos-C#/ParorImpar/bin/Debug/net6.0/ParorImpar.dll
+/home/lipin-dev/projetos-C#/ParorImpar/bin/Debug/net6.0/ParorImpar.pdb
+/home/lipin-dev/projetos-C#/ParorImpar/obj/Debug/net6.0/ParorImpar.csproj.AssemblyReference.cache
+/home/lipin-dev/projetos-C#/ParorImpar/obj/Debug/net6.0/ParorImpar.GeneratedMSBuildEditorConfig.editorconfig
+/home/lipin-dev/projetos-C#/ParorImpar/obj/Debug/net6.0/ParorImpar.AssemblyInfoInputs.cache
+/home/lipin-dev/projetos-C#/ParorImpar/obj/Debug/net6.0/ParorImpar.AssemblyInfo.cs
+/home/lipin-dev/projetos-C#/ParorImpar/obj/Debug/net6.0/ParorImpar.csproj.CoreCompileInputs.cache
+/home/lipin-dev/projetos-C#/ParorImpar/obj/Debug/net6.0/ParorImpar.dll
+/home/lipin-dev/projetos-C#/ParorImpar/obj/Debug/net6.0/refint/ParorImpar.dll
+/home/lipin-dev/projetos-C#/ParorImpar/obj/Debug/net6.0/ParorImpar.pdb
+/home/lipin-dev/projetos-C#/ParorImpar/obj/Debug/net6.0/ParorImpar.genruntimeconfig.cache
+/home/lipin-dev/projetos-C#/ParorImpar/obj/Debug/net6.0/ref/ParorImpar.dll
